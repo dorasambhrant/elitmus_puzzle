@@ -14,6 +14,20 @@ This website is an interactive puzzle designed to assess the soft skills of its 
 - CSS
 - JavaScript
 
+## Quizes and Answers
+
+Answer:
+Quiz - 1       "look in your red shoes!"
+Quiz - 2      "stool"
+Quiz - 3         "the clue is under your desk"
+Quiz - 4         "cat food"
+Quiz - 5         "microwave"
+Quiz - 6         "195"
+Quiz - 7         "bookshelf"
+Quiz - 8         "what was in my coat pocket"
+Quiz - 9         "plant"
+
+
 ## Features Checklist
 
 - User authentication: Anyone with an email address can create an account to participate in the game.
