@@ -1,4 +1,7 @@
 # Interactive Puzzle Website
+Assessing soft skills is not always straightforward or objective, as they are subjective traits that are difficult to measure quantitatively. However, there are some common methods used to evaluate soft skills. 
+
+One approach to assessing soft skills is to use a scoring system. The specific scoring system used will depend on the soft skill being evaluated and the method of assessment. For example, if using an assessment, the person might get a score on a scale of 1-5 for each soft skill, and the scores would be tallied and ratings could be averaged to provide an overall score for each soft skill to provide an overall score for each skill.
 
 This website is an interactive puzzle designed to assess the soft skills of its users. The puzzle revolves around a central theme and incorporates direct or subtle methods of measuring soft skills such as eye for detail, perseverance, and curiosity.
 
