@@ -5,6 +5,9 @@ One approach to assessing soft skills is to use a scoring system. The specific s
 
 This website is an interactive puzzle designed to assess the soft skills of its users. The puzzle revolves around a central theme and incorporates direct or subtle methods of measuring soft skills such as eye for detail, perseverance, and curiosity.
 
+## Web Link
+   Website Live on -- https://dorasambhrant.github.io/elitmus_puzzle/
+
 ## Technologies Used
 
 - HTML
