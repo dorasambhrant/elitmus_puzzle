@@ -11,7 +11,7 @@ This website is an interactive puzzle designed to assess the soft skills of its 
 - CSS
 - JavaScript
 
-## Features
+# Features Checklist
 
 - User authentication: Anyone with an email address can create an account to participate in the game.
 - Puzzle: The puzzle contains a minimum of 5 clues, 2 dead-ends, and 1 solution.
